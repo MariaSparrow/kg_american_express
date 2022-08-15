@@ -1,0 +1,12 @@
+numpy
+pandas
+sklearn
+plotly
+matplotlib
+seaborn
+duckdb
+jupyter
+jupyterlab
+sqlalchemy
+ipython-sql
+duckdb-engine
